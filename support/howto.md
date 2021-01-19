@@ -21,7 +21,7 @@ geophysica.org  canonical name = shohtagawa.github.io
 <br>
 GitHub pagesの場合には、このCNAMEの設定によるカスタムドメインによるアクセス機能を取り込んでおり、SettingsのなかのGUIから、作る事ができます。
 
-# 2howto
+# 2方法
 今回は、次のようにして導入しました。<br>
 1. domain管理をしているサーバーで、CNAMEを登録。   
   ![](./dns.PNG)  

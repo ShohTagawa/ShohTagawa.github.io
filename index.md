@@ -7,7 +7,7 @@ title: テストページ
 <a href="https://docs.github.com/ja/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#%E3%82%B5%E3%83%96%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B" target="_blank">基本的にはこちら</a>を参照しています。<br>
 
 ## ページの構成
-旧URL：[https://ShohTagawa.github.io](https://ShohTagawa.github.io)<br>
+旧URL：[https://ShohTagawa.github.io/](https://ShohTagawa.github.io)<br>
   GitHub Pages管理<br>
 新URL：[https://geophysica.org/](http://geophysica.org/)<br>
   個人管理のdomain (xserver社で購入・管理、DNSレコードを登録)<br>
