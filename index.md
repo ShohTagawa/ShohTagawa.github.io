@@ -12,7 +12,8 @@ title: テストページ
   ![](support/dns.PNG)  
 ※ サーバーは、xserver社のものです<br>
 次に、時間待った後(DNSの順次更新)、GitHub側のSettingsにある、pages設定のCustum domainを登録しました。<br>
-その結果、カスタムdomainである、[https://geophysica.org/](http://geophysica.org/)で、https://ShohTagawa.github.ioが表示されるようになりました。<br>
+また、httpsをenforceする設定をonにしました。<br>
+結果、カスタムdomainである、[https://geophysica.org/](http://geophysica.org/)で、[https://ShohTagawa.github.io](http://geophysica.org/)が表示されるようになりました。<br>
 
 ## リンクのテスト
 アドレスを転送する上で、もっともネックになるのは、様々な階層のページに対する既存のリンクやブックマークが動かなくなることです。<br>
