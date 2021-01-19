@@ -7,5 +7,5 @@ githubでの旧リンクは、
 - https://ShohTagawa.github.io/support/   
 のはずですが、これが、   
 - https://geophysica.org/support/
-と表示されます。
+と表示されます。   
 [topへ](../index)
