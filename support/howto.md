@@ -4,10 +4,10 @@ title: howto
 
 # 1前提  
 このページは、GitHub Desktopで作成したページが、別のdomainへ転送出来るのかを試すために使われたものです。   
-githubでの旧リンクは、   
-- https://ShohTagawa.github.io/support/   
+GitHub pagesで作成した時の、このページの旧リンクは、      
+- https://ShohTagawa.github.io/support/howto/  
 ですが、これが、   
-- https://geophysica.org/support/
+- https://geophysica.org/support/howto/
 と表示されます。
 <br/>
 <b>忘備録</b>
