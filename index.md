@@ -1,18 +1,19 @@
 ---
-title: オンライン授業情報交換会
+title: テストページ
 ---
 
-お昼の時間に情報交換を行う会を開催しています．  
-今後もトピックを決めて週1回で実施していきます．  
-本会は録画した上でその動画を学内公開する点，ご了承の上，ご参加下さい．
+このページは、GitHub Desktopで作成したページが、別のdomainへ転送出来るのかを試すために使われyたものです。
+処理としては、CNAMEを書いただけです。
+[基本的にはこちら](https://docs.github.com/ja/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#%E3%82%B5%E3%83%96%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)を参照しています<br>
 
-### ランチョンのURL
+## テストの方法
+アドレスを転送する上で、もっともネックになるのは、既存ページの一部に対するリンクが動かなくなることです。
+下記は、リンクが動くかのテストです
+[リンク①](what_not_new)：おなじ次元の相対リンク
+[リンク②](support/index)：一つ下の次元の相対リンク
+[リンク③](support/test.jpg)：一つ下の画像ファイル
 
-【場所】Zoom（URL は以下のいずれかの場所で確認することができます） 
-* [Googleスプレッドシート](https://tinyurl.com/ybs6l9qo)
-  * ECCS クラウドメール(xxx@g.ecc.u-tokyo.ac.jp)アカウントでGoogleにサインインしている必要があります
-  * 上手くアクセスできない場合は[こちら](https://mail.google.com/a/g.ecc.u-tokyo.ac.jp)からECCS クラウドメールでサインインしてください．
-  * ECCSクラウドメールを利用したことがない方は[こちら](https://hwb.ecc.u-tokyo.ac.jp/wp/literacy/email/initialize/)からアカウント利用の初期設定をしてください
-* [Excelオンライン](https://tinyurl.com/yaqkvu83) 
-  * UTokyo Account10桁のID@utac.u-tokyo.ac.jpでoffice.comにサインインしている必要があります．
-  * 上手くアクセスできない場合は[こちら](https://www.office.com/)に行き，（サインインしている場合は一度サインアウトして）UTokyo Account10桁のID@utac.u-tokyo.ac.jpでサインインしてください
+## 気になる点
+- 英語ページへのリンクなどはきちんと動くか?
+- Googleのクロールは、どちらのサイトで登録されるか。
+- httpsの問題はないか
