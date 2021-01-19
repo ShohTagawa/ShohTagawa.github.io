@@ -8,11 +8,11 @@ title: テストページ
 
 ## このページの構成
 このページはもともと、GitHub上で更新されている[https://ShohTagawa.github.io](https://ShohTagawa.github.io)です。<br>
-個人所有しているdomainである、geophysica.orgのDNSの設定をいじり、CNAME設定を変えています(下記に写真が表示されます)。<br>
+個人所有しているdomainである、geophysica.orgのDNSのCNAME設定を変えて、そちらで見えるように致しました(下記に写真が表示されます)。<br>
   ![](support/dns.PNG)  
 ※ サーバーは、xserver社のものです<br>
-上記の処理を行って、数時間待った後(DNSの順次更新)、GitHub側のSettingsにある、pages設定のCustum domainを登録します。<br>
-その結果、カスタムdomainである、[http://geophysica.org/](http://geophysica.org/)で表示されるように致しました。<br>
+次に、時間待った後(DNSの順次更新)、GitHub側のSettingsにある、pages設定のCustum domainを登録しました。<br>
+その結果、カスタムdomainである、[https://geophysica.org/](http://geophysica.org/)で表示されるように致しました。<br>
 
 ## リンクのテスト
 アドレスを転送する上で、もっともネックになるのは、様々な階層の既存ページへのアドレスに対するリンクやブックマークが動かなくなることです。<br>
@@ -24,10 +24,10 @@ title: テストページ
 [リンク④](support/test.jpg)：一つ下の階層の画像ファイル。旧直リンクは、[https://ShohTagawa.github.io/support/test.jpg](https://ShohTagawa.github.io/support/test.jpg)<br>
 [リンク⑤](support/howto#1前提)：一つ下の階層の相対リンク(howto.md)中のタグ1へのリンク。旧直リンクは、[https://ShohTagawa.github.io/support/howto#1前提](https://ShohTagawa.github.io/support/howto#1前提)<br>
 
-## 気になる点
-- 英語ページへのリンクなどはきちんと動くか?
-- Googleのクロールは、どちらのサイトで登録されるか。
-- httpsの問題はないか。
+## 気になる点   
+- 英語ページへのリンクなどはきちんと動くか。   
+- Googleのクロールは、どちらのサイトで登録されるか。   
+- httpsの問題はないか。   
 
-## 設定手順
+## 設定手順   
 - 設定した手順については、howtoにのせました。
