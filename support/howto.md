@@ -10,7 +10,7 @@ GitHub pagesで作成した時の、このページの旧リンクは、
 - https://geophysica.org/support/howto
 と表示されます。
 <br/>
-<b>忘備録</b>
+<b>自分のための忘備録</b>
 この機能は、DNS (Domain Name System)の設定によるものです。DNSは、ホスト名+ドメイン名とIPアドレスの間の対応を取る仕組みで、DNSサーバーにある記録に、CNAMEレコード(ホスト名+ドメイン名の別名のものに転送する記述)を登録することで実現しています。   <br>
 登録の確認のコマンド(nslookup)を打つと、下記のように、geophysica.orgはshohtagawa.github.ioに転送されていることがわかります。<br>
 ```
