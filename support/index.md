@@ -7,5 +7,6 @@ githubでの旧リンクは、
 - https://ShohTagawa.github.io/support/   
 ですが、これが、   
 - https://geophysica.org/support/
+- [test](/support/howto)
 と表示されます。   
 [topへ](../index)
