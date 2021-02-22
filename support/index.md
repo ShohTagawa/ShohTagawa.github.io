@@ -1,5 +1,8 @@
 ---
-title: テストページ
+title: Test
+layout: ja_test
+sitemap: false
+redirect_to: "/"
 ---
 
 このページは、GitHub Desktopで作成したページが、別のdomainへ転送出来るのかを試すために使われたものです。   
