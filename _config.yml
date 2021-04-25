@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 
-locale                   : "jp-JA"
+locale                   : "ja-JP"
 title                    : "geophysica"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
